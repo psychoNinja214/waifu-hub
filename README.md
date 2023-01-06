@@ -1,1 +1,1 @@
-# waifu-hub
+# waifu_hub
